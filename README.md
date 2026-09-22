@@ -2,7 +2,7 @@
 ## 🪼 About Me:
 - Greetings, I'm @SumSumSoo! 👋
 - I like programming, cybersecurity, and cryptography! 👩‍💻
-- I'm currently learning JavaScript, Python, and C!
+- I'm currently learning JavaScript and Python!
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SumSumSoo&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
